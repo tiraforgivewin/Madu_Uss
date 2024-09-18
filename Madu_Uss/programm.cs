@@ -10,6 +10,7 @@ namespace Madu_Uss
     {
         static void Main(string[] args)
         {
+            //
             int x1 = 1;
             int y1 = 3;
             char sym1 = '*';
